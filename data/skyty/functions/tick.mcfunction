@@ -1,5 +1,4 @@
 # Runs on every Minecraft tick
-tellraw @a {"text": "Test"}
 
 # Player checkpoints
 # Magenta glazed terracotta
