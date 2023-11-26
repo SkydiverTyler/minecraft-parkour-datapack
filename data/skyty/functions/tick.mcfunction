@@ -11,4 +11,4 @@ execute as @a run execute at @s if block ~ ~-1 ~ magenta_glazed_terracotta run t
 
 # Kill player
 # Red concrete (subject to change)
-execute as @a run execute at @s if block ~ ~-1 ~ red_concrete run kill @s
+execute as @a run execute at @s if block ~ ~-0.1 ~ red_concrete run kill @s
